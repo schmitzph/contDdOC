@@ -1,4 +1,4 @@
-The numerical example presented in
+This repositiry contains the numerical example presented in
 
 **A continuous-time fundamental lemma
 and its application in data-driven optimal control**
